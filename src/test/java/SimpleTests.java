@@ -14,11 +14,11 @@ public class SimpleTests {
         assertEquals(true, true);
 //        assertTrue(true);
     }
-//
-//    @Test
-//    void negativeTest() {
-//        assertEquals(true, false);
-//    }
+
+    @Test
+    void negativeTest() {
+        assertEquals(true, false);
+    }
 //
 //    @Test
 //    @Tag("positive")
